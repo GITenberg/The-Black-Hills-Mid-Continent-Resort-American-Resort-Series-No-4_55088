@@ -1,11 +1,16 @@
 _repo: The-Black-Hills-Mid-Continent-Resort-American-Resort-Series-No-4_55088
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 55088-h/images/cover.jpg
 creator:
   author:
     agent_name: Williams, Albert Nathaniel
     gutenberg_agent_id: '48183'
     url: http://www.gutenberg.org/2009/agents/48183
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55088#The-Black-Hills-Mid-Continent-Resort-American-Resort-Series-No-4
 gutenberg_issued: '2017-07-11'
 gutenberg_type: Text
 identifiers:
